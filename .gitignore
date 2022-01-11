@@ -1,0 +1,17 @@
+Logbook-workspace.code-workspace
+
+## Ignore autoencoder examples
+Bootcamp/day-8/Autoencoder-mnist/*
+Bootcamp/day-8/Autoencoder-simple/*
+
+## Ignore all checkpoint files
+**/.ipynb_checkpoints
+
+## Ignore the PDF showing info about what needs to be in the portfolio
+Bewijs-portfolio_Mathematics.pdf
+
+## ignores all downloads
+downloads
+
+## ignore all pycaches
+__pycache__
